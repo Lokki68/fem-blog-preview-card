@@ -44,7 +44,7 @@ body {
 
   &:hover {
     box-shadow: 16px 16px 0 var(--black);
-
+    cursor: pointer;
   }
 
   @media (min-width: 768px) {
